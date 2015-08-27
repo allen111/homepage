@@ -1,4 +1,19 @@
+@media (max-width: 1000px)
+{
+  body{
+      background-image: url("imm2.jpg");
+     background-size: auto;
+     background-repeat: no-repeat;
+     font-family:arial;
+     margin: 0;
 
+
+  }
+
+}
+
+@media (min-width: 1001px)
+{
 body {
     background-image: url("imm.jpg");
 	   background-size:cover;
