@@ -199,6 +199,13 @@ border-color: #4862A3;
 
   background-image: url('resource/icons/w3school.png');
 }
+
+.button-w3school:hover{
+
+  background-image: url('resource/icons/gmail.png');
+  border-color: #FFFFFF;
+  box-shadow: 0 0 5px #FFFFFF;
+}
 .button-color{
 
   background-image: url('resource/icons/color.png');
