@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Homepage</title>
+	<link rel="shortcut icon" href="iacmat.ico" type="image/x-icon"/>
+	<link href="main.css" rel="stylesheet" type="text/css"/>
+	<link rel="stylesheet" type="text/css" href="searchBar.css">
+	<script src="jQuery.js"></script>
+	
+
+</head>
+<body>
+
+
+	<section class="searchContainer" >
+		<form class="searchForm" method="get" action="https://google.com/search" target="_blank" autocomplete="off">
+			<input class="searchBar search_google" type="text" name="q" placeholder="Google" autofocus="autofocus" search_ />
+		</form>
+		<form class="searchForm" method="get" action="https://youtube.com/results" target="_blank" autocomplete="off">
+			<input class="searchBar search_youtube" type="text" name="search_query" placeholder="Youtube" search_/>
+		</form>
+		<form class="searchForm" method="get" action="https://en.wikipedia.org/w/index.php" target="_blank" autocomplete="off">
+			<input class="searchBar search_wikipedia" type="text" name="search" placeholder="Wikipedia (en)"  search_/>
+		</form>
+		<form class="searchForm" method="get" action="https://github.com/search" target="_blank" autocomplete="off">
+			<input class="searchBar search_GitHub" type="text" name="q" placeholder="GitHub" search_/>
+		</form>
+		<form class="searchForm" method="get" action="https://stackoverflow.com/search" target="_blank" autocomplete="off">
+			<input class="searchBar search_StackOverflow" type="text" name="q" placeholder="Stackoverflow" search_/>
+		</form>
+
+	</section>
+
+
+	<div class="cenet">
+		<ul>
+			<li><a class="ghost-button-size-transition button-facebook" href="https://www.facebook.com/?sk=h_chr" target="_blank"></a></li>
+			<li><a class="ghost-button-size-transition button-tomsh" href="http://www.tomshw.it/" target="_blank"></a></li>
+			<li><a class="ghost-button-size-transition button-multiit" href="http://multiplayer.it/" target="_blank"></a></li>
+			<li><a class="ghost-button-size-transition button-modem" href="http://192.168.1.254/login.lp" target="_blank"></a></li>
+		</ul>
+		
+	</div>
+
+	<div class="cenet2">
+		<ul>
+			<li><a class="ghost-button-size-transition button-yt" href="https://www.youtube.com/feed/subscriptions" target="_blank"></a></li>
+			<li><a class="ghost-button-size-transition button-unipi" href="http://www.di.unipi.it/didattica" target="_blank"></a></li>
+			<li><a class="ghost-button-size-transition button-gmail" href="https://mail.google.com" target="_blank"></a></li>
+			<li><a class="ghost-button-size-transition button-w3school" href="https://github.com/" target="_blank"></a></li>
+		</ul>
+	</div>
+
+	<div> 
+		<a href="http://www.w3schools.com/tags/ref_colorpicker.asp" target="_blank" class="colorpicker button-color"></a>
+	</div>
+
+	
+<div style="position: absolute;
+        top: 50%;
+        left: 50%;
+        display:none;">a</div>
+	
+	<script>
+	$(function(){
+
+
+
+		$(".searchForm").click(function(){
+			
+			$(".searchForm").children().val("");
+			
+		});
+
+
+
+	});
+	</script>
+
+</body>
+</html>
