@@ -1,0 +1,591 @@
+<head>
+<link rel="stylesheet" href="awesomplete.css" />
+<script src="awesomplete.js" async></script>
+</head>
+<body>
+<input class="awesomplete" id="inp"
+       data-list="
+
+
+Abathur Build:  <br/>
+01 Pressurized Glands <br/>
+04 Adrenal Overload <br/>
+07 Needlespine <br/>
+13 Soma Transference <br/>
+16 Envenomed Spikes <br/>
+
+,
+Alarak Build:  <br/>
+01 Applied Force <br/>
+04 Double Cross <br/>
+10 Counter-Strike <br/>
+13 Pure Malice <br/>
+16 Quick Mind <br/>
+
+,
+Anub'arak Build:  <br/>
+01 Nerubian Armor <br/>
+04 Bed of Barbs <br/>
+07 Subterranean Shield <br/>
+10 Locust Swarm <br/>
+13 Burning Rage <br/>
+16 Epicenter <br/>
+
+,
+Artanis Build:  <br/>
+04 Shield Surge <br/>
+07 Warp Sickness <br/>
+10 Purifier Beam <br/>
+13 Triple Strike <br/>
+16 Titan Killer <br/>
+
+,
+Arthas Build:  <br/>
+01 Rime <br/>
+04 Frozen Wastes <br/>
+07 Icebound Fortitude <br/>
+10 Army of the Dead <br/>
+13 Biting Cold <br/>
+16 Remorseless Winter <br/>
+
+,
+Auriel Build:  <br/>
+04 Majestic Span <br/>
+07 Energized Cord <br/>
+10 Crystal Aegis <br/>
+13 Blinding Flash <br/>
+16 Reservoir of Hope <br/>
+
+,
+Azmodan Build:  <br/>
+01 Sieging Wrath <br/>
+04 Army of Hell <br/>
+07 Infernal Globe <br/>
+10 Black Pool <br/>
+13 Hellforged Armor <br/>
+16 Battleborn <br/>
+
+,
+Brightwing Build:  <br/>
+01 Pixie Charm <br/>
+04 Manic Pixie <br/>
+10 Emerald Wind <br/>
+13 Shield Dust <br/>
+16 Bouncy Dust <br/>
+
+,
+Abathur Build:  <br/>
+01 Pressurized Glands <br/>
+04 Adrenal Overload <br/>
+07 Needlespine <br/>
+13 Soma Transference <br/>
+16 Envenomed Spikes <br/>
+
+,
+Alarak Build:  <br/>
+01 Applied Force <br/>
+04 Double Cross <br/>
+10 Counter-Strike <br/>
+13 Pure Malice <br/>
+16 Quick Mind <br/>
+
+,
+Anub'arak Build:  <br/>
+01 Nerubian Armor <br/>
+04 Bed of Barbs <br/>
+07 Subterranean Shield <br/>
+10 Locust Swarm <br/>
+13 Burning Rage <br/>
+16 Epicenter <br/>
+
+,
+Artanis Build:  <br/>
+04 Shield Surge <br/>
+07 Warp Sickness <br/>
+10 Purifier Beam <br/>
+13 Triple Strike <br/>
+16 Titan Killer <br/>
+
+,
+Arthas Build:  <br/>
+01 Rime <br/>
+04 Frozen Wastes <br/>
+07 Icebound Fortitude <br/>
+10 Army of the Dead <br/>
+13 Biting Cold <br/>
+16 Remorseless Winter <br/>
+
+,
+Auriel Build:  <br/>
+04 Majestic Span <br/>
+07 Energized Cord <br/>
+10 Crystal Aegis <br/>
+13 Blinding Flash <br/>
+16 Reservoir of Hope <br/>
+
+,
+Azmodan Build:  <br/>
+01 Sieging Wrath <br/>
+04 Army of Hell <br/>
+07 Infernal Globe <br/>
+10 Black Pool <br/>
+13 Hellforged Armor <br/>
+16 Battleborn <br/>
+
+,
+Brightwing Build:  <br/>
+01 Pixie Charm <br/>
+04 Manic Pixie <br/>
+10 Emerald Wind <br/>
+13 Shield Dust <br/>
+16 Bouncy Dust <br/>
+
+,
+Cassia Build:  <br/>
+01 Charged Strikes <br/>
+04 Ring of the Leech <br/>
+07 Impale <br/>
+10 Ball Lightning <br/>
+13 Lunging Strike <br/>
+16 Penetrate <br/>
+
+,
+Chen Build:  <br/>
+
+,
+Cho Build:  <br/>
+
+,
+Chromie Build:  <br/>
+01 Compounding Aether <br/>
+04 Piercing Sands <br/>
+07 Dragon&#39;s Eye <br/>
+10 Temporal Loop <br/>
+13 Reaching through Time <br/>
+16 Shifting Sands <br/>
+
+,
+Dehaka Build:  <br/>
+01 Primal Aggression <br/>
+04 One-Who-Collects <br/>
+07 Symbiosis <br/>
+10 Adaptation <br/>
+13 Primal Swarm <br/>
+16 Tunneling Claws <br/>
+
+,
+Diablo Build:  <br/>
+01 Bulwark <br/>
+04 From the Shadows <br/>
+07 Soul Shield <br/>
+10 Apocalypse <br/>
+13 Fire Devil <br/>
+16 Domination <br/>
+
+,
+E.T.C. Build:  <br/>
+04 Loud Speakers <br/>
+07 Echo Pedal <br/>
+10 Mosh Pit <br/>
+13 Face Smelt <br/>
+16 Show Stopper <br/>
+
+,
+Falstad Build:  <br/>
+01 Wingman <br/>
+04 Static Shield <br/>
+07 Charged Up <br/>
+13 Thunderstrikes <br/>
+16 Afterburner <br/>
+
+,
+Gazlowe Build:  <br/>
+
+,
+Genji Build:  <br/>
+01 Swift as the Wind <br/>
+04 Shuriken Mastery <br/>
+07 Dodge <br/>
+13 Shingan <br/>
+16 Final Cut <br/>
+
+,
+Greymane Build:  <br/>
+01 Perfect Aim <br/>
+04 Draught Overflow <br/>
+07 Incendiary Elixir <br/>
+10 Cursed Bullet <br/>
+13 On the Prowl <br/>
+16 Executioner <br/>
+
+,
+Gul'dan Build:  <br/>
+01 Echoed Corruption <br/>
+04 Improved Life Tap <br/>
+07 Bound by Shadow <br/>
+10 Horrify <br/>
+13 Healthstone <br/>
+16 Ruinous Affliction <br/>
+
+,
+Illidan Build:  <br/>
+
+,
+Jaina Build:  <br/>
+01 Winter&#39;s Reach <br/>
+04 Frost Shards <br/>
+07 Ice Lance <br/>
+10 Ring of Frost <br/>
+16 Northern Exposure <br/>
+
+,
+Johanna Build:  <br/>
+01 Reinforce <br/>
+04 Laws of Hope <br/>
+07 Blessed Momentum <br/>
+10 Blessed Shield <br/>
+13 Burning Rage <br/>
+16 Imposing Presence <br/>
+
+,
+Kael'thas Build:  <br/>
+01 Convection <br/>
+04 Mana Tap <br/>
+07 Burned Flesh <br/>
+10 Phoenix <br/>
+13 Fission Bomb <br/>
+16 Fury of the Sunwell <br/>
+
+,
+Kerrigan Build:  <br/>
+04 Fury of the Swarm <br/>
+07 Bladed Momentum <br/>
+10 Maelstrom <br/>
+13 Double Strike <br/>
+16 Aggressive Defense <br/>
+
+,
+Kharazim Build:  <br/>
+01 Iron Fists <br/>
+04 Earth Ally <br/>
+07 Blinding Speed <br/>
+10 Divine Palm <br/>
+16 Way of the Hundred Fists <br/>
+
+,
+Leoric Build:  <br/>
+01 Hopelessness <br/>
+04 Willing Vessel <br/>
+07 Ghastly Reach <br/>
+10 Entomb <br/>
+13 Crushing Hope <br/>
+16 Unyielding Despair <br/>
+
+,
+LiLi Build:  <br/>
+01 Pressurized Glands <br/>
+04 Adrenal Overload <br/>
+07 Needlespine <br/>
+13 Soma Transference <br/>
+16 Envenomed Spikes <br/>
+
+,
+Li-Ming Build:  <br/>
+01 Force Armor <br/>
+04 Dominance <br/>
+07 Calamity <br/>
+10 Wave Of Force <br/>
+13 Illusionist <br/>
+16 Mirrorball <br/>
+
+,
+Lt.Morales Build:  <br/>
+01 Pressurized Glands <br/>
+04 Adrenal Overload <br/>
+07 Needlespine <br/>
+13 Soma Transference <br/>
+16 Envenomed Spikes <br/>
+
+,
+Lúcio Build:  <br/>
+01 Accelerando <br/>
+04 Chase the Bass <br/>
+07 Party Mix <br/>
+10 Sound Barrier <br/>
+13 Hard Style <br/>
+16 Rejuvenescência <br/>
+
+,
+Lunara Build:  <br/>
+01 Natural Perspective <br/>
+04 Nimble Wisp <br/>
+07 Wild Vigor <br/>
+10 Leaping Strike <br/>
+13 Giant Killer <br/>
+
+,
+Malfurion Build:  <br/>
+01 Moonburn <br/>
+04 Vengeful Roots <br/>
+07 Strangling Vines <br/>
+13 Life Seed <br/>
+16 Tenacious Roots <br/>
+
+,
+Medivh Build:  <br/>
+01 Stable Portal <br/>
+04 Bird&#39;s Eye View <br/>
+07 The Master&#39;s Touch <br/>
+10 Ley Line Seal <br/>
+13 Quickening <br/>
+16 Reabsorption <br/>
+
+,
+Muradin Build:  <br/>
+01 Perfect Storm <br/>
+04 Thunder Burn <br/>
+07 Skullcracker <br/>
+10 Avatar <br/>
+13 Healing Static <br/>
+16 Give &#39;em the Axe! <br/>
+
+,
+Murky Build:  <br/>
+
+,
+Nazeebo Build:  <br/>
+01 Thing of the Deep <br/>
+07 Dead Rush <br/>
+10 Gargantuan <br/>
+13 Ice Block <br/>
+16 Ring of Poison <br/>
+
+,
+Nova Build:  <br/>
+04 Covert Mission <br/>
+07 One in the Chamber <br/>
+10 Precision Strike <br/>
+13 Double Tap <br/>
+16 Crippling Shot <br/>
+
+,
+Probius Build:  <br/>
+01 Gather Minerals <br/>
+04 Shield Capacitor <br/>
+07 Tower Defense <br/>
+10 Pylon Overcharge <br/>
+13 Shield Battery <br/>
+
+,
+Ragnaros Build:  <br/>
+01 Sulfuras Hungers <br/>
+07 Hand of Ragnaros <br/>
+10 Lava Wave <br/>
+13 Cauterize Wounds <br/>
+16 Giant Scorcher <br/>
+
+,
+Raynor Build:  <br/>
+01 Seasoned Marksman <br/>
+04 Focused Attack <br/>
+07 Revolution Overdrive <br/>
+10 Hyperion <br/>
+13 Giant Killer <br/>
+16 Executioner <br/>
+
+,
+Rehgar Build:  <br/>
+01 Lightning Bond <br/>
+04 Healing Totem <br/>
+07 Cleanse <br/>
+10 Ancestral Healing <br/>
+13 Earth Shield <br/>
+16 Earthgrasp Totem <br/>
+
+,
+Rexxar Build:  <br/>
+
+,
+Samuro Build:  <br/>
+01 Way of the Blade <br/>
+04 Mirage <br/>
+07 Burning Blade <br/>
+10 Bladestorm <br/>
+13 Shukuchi <br/>
+16 Harsh Winds <br/>
+
+,
+Sgt.Hammer Build:  <br/>
+01 Pressurized Glands <br/>
+04 Adrenal Overload <br/>
+07 Needlespine <br/>
+13 Soma Transference <br/>
+16 Envenomed Spikes <br/>
+
+,
+Sonya Build:  <br/>
+01 War Paint <br/>
+04 Focused Attack <br/>
+07 Poisoned Spear <br/>
+10 Wrath of the Berserker <br/>
+13 Mystical Spear <br/>
+16 Nerves of Steel <br/>
+
+,
+Stitches Build:  <br/>
+01 Heavy Slam <br/>
+04 Putrid Ground <br/>
+07 Toxic Gas <br/>
+10 Putrid Bile <br/>
+13 Mega Smash <br/>
+16 Pulverize <br/>
+
+,
+Sylvanas Build:  <br/>
+01 Dreadful Wake <br/>
+04 Lost Soul <br/>
+10 Wailing Arrow <br/>
+13 Life Drain <br/>
+16 Cold Embrace <br/>
+
+,
+Tassadar Build:  <br/>
+
+,
+TheButcher Build:  <br/>
+01 Pressurized Glands <br/>
+04 Adrenal Overload <br/>
+07 Needlespine <br/>
+13 Soma Transference <br/>
+16 Envenomed Spikes <br/>
+
+,
+TheLostVikings Build:  <br/>
+01 Pressurized Glands <br/>
+04 Adrenal Overload <br/>
+07 Needlespine <br/>
+13 Soma Transference <br/>
+16 Envenomed Spikes <br/>
+
+,
+Thrall Build:  <br/>
+01 Rolling Thunder <br/>
+04 Ride The Lightning <br/>
+07 Follow Through <br/>
+10 Sundering <br/>
+13 Giant Killer <br/>
+16 Tempest Fury <br/>
+
+,
+Tracer Build:  <br/>
+
+,
+Tychus Build:  <br/>
+01 Press the Advantage <br/>
+04 The Bigger They Are... <br/>
+10 Commandeer Odin <br/>
+13 Spray &#39;n&#39; Pray <br/>
+16 Armor Piercing Rounds <br/>
+
+,
+Tyrael Build:  <br/>
+01 Purge Evil <br/>
+04 Horadric Reforging <br/>
+07 Reciprocate <br/>
+10 Sanctification <br/>
+13 Burning Rage <br/>
+16 Holy Ground <br/>
+
+,
+Tyrande Build:  <br/>
+01 Empower <br/>
+04 Pierce <br/>
+10 Starfall <br/>
+13 Overflowing Light <br/>
+16 Ranger <br/>
+
+,
+Uther Build:  <br/>
+01 Wave of Light <br/>
+04 Holy Fire <br/>
+07 Guardian of Ancient Kings <br/>
+10 Divine Storm <br/>
+13 Blessed Champion <br/>
+
+,
+Valeera Build:  <br/>
+01 Subtlety <br/>
+04 Initiative <br/>
+07 Assassinate <br/>
+10 Smoke Bomb <br/>
+13 Death From Above <br/>
+16 Expose Armor <br/>
+
+,
+Valla Build:  <br/>
+01 Hot Pursuit <br/>
+04 Punishment <br/>
+07 Arsenal <br/>
+10 Rain of Vengeance <br/>
+13 Tempered by Discipline <br/>
+16 Frost Shot <br/>
+
+,
+Varian Build:  <br/>
+01 High King&#39;s Quest <br/>
+04 Shield Wall <br/>
+07 Second Wind <br/>
+10 Twin Blades of Fury <br/>
+13 Mortal Strike <br/>
+16 Banner of Ironforge <br/>
+
+,
+Xul Build:  <br/>
+
+,
+Zagara Build:  <br/>
+
+,
+Zarya Build:  <br/>
+01 Demolitions Expert <br/>
+04 Give Me Twenty <br/>
+07 Pinpoint Accuracy <br/>
+10 Graviton Surge <br/>
+16 Gain Train <br/>
+
+,
+Zeratul Build:  <br/>
+01 Vorpal Blade <br/>
+04 Combo Slash <br/>
+07 Seeker in the Dark <br/>
+10 Void Prison <br/>
+13 Mending Strikes <br/>
+16 Sentenced to Death <br/>
+
+,
+Zul'jin Build:  <br/>
+01 You Want Axe? <br/>
+04 Let the Killing Begin <br/>
+07 Recklessness <br/>
+10 Taz&#39;dingo! <br/>
+13 Eye of Zul&#39;jin <br/>
+16 Ferocity <br/>
+
+
+" />
+
+<div id="roba"/>
+
+
+
+
+<script>
+  addEventListener("awesomplete-selectcomplete", function(r) {
+    var d1 = document.getElementById('roba');
+    d1.innerHTML = r.text;
+    document.getElementById('inp').value='' ; 
+
+    
+  });
+</script>
+</body>
