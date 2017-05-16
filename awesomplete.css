@@ -7,13 +7,16 @@
     clip: rect(0, 0, 0, 0);
 }
 
-.awesomplete {
-    display: inline-block;
-    position: relative;
-}
-
 .awesomplete > input {
     display: block;
+    position: relative;
+    width: 100px;
+    
+    transition: width 0.5s;
+}
+
+.awesomplete:focus {
+	width: 500px;
 }
 
 .awesomplete > ul {
